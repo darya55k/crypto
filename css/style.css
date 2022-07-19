@@ -29,7 +29,7 @@ p{
 .info{
     display: flex;
     flex-direction: column;
-    padding-top: 80px;
+    padding-top: 60px;
     padding-left: 81px;
 }
 .info__logo{
@@ -44,7 +44,7 @@ p{
     /* or 98px */
     max-width: 500px;
     text-transform: uppercase;
-    padding-top: 10vh;
+    padding-top: 8vh;
     color: #FFFFFF;  
     margin: 0;
     padding-bottom: 8vh;
