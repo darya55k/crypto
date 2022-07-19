@@ -40,14 +40,14 @@ p{
     font-style: normal;
     font-weight: 700;
     font-size: 55px;
-    line-height: 102%;
+    line-height: 140%;
     /* or 98px */
     max-width: 500px;
     text-transform: uppercase;
     padding-top: 10vh;
     color: #FFFFFF;  
     margin: 0;
-    padding-bottom: 10vh;
+    padding-bottom: 8vh;
 }
 .info_paragraph{
     font-family: 'Poppins';
@@ -59,11 +59,11 @@ max-width: 600px;
 /* or 37px */
 
 text-transform: uppercase;
-padding-bottom: 20px;
+padding-bottom: 15px;
 color: #FFFFFF;
 }
 .info__button{
-    margin-top: 10vh;
+    margin-top: 7vh;
     width: 280px;
     background-color: #1C5FFF;
     border-radius: 30px;
