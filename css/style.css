@@ -74,7 +74,25 @@ color: #FFFFFF;
     text-transform: uppercase;
     color: #FFFFFF;
     padding: 13px 55px;
+    animation: rotate 1.4s linear infinite;
+    border-style: none;
 }
+@-webkit-keyframes rotate {
+    0% {
+      -webkit-transform: scale(0.94);
+      transform: scale(0.94);
+    }
+  
+    50% {
+      -webkit-transform: scale(1);
+      transform: scale(1);
+    }
+  
+    100% {
+      -webkit-transform: scale(0.94);
+      transform: scale(0.94);
+    }
+  }
 .info__img{
     height: 81vh;
     padding-top: 41px;
