@@ -55,6 +55,7 @@ font-style: normal;
 font-weight: 300;
 font-size: 23px;
 line-height: 129%;
+max-width: 600px;
 /* or 37px */
 
 text-transform: uppercase;
