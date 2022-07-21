@@ -54,7 +54,7 @@ p{
 font-style: normal;
 font-weight: 300;
 font-size: 23px;
-line-height: 129%;
+line-height: 144%;
 max-width: 600px;
 /* or 37px */
 
@@ -63,6 +63,9 @@ padding-bottom: 15px;
 color: #FFFFFF;
 }
 .info__button{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Poppins';
     margin-top: 7vh;
     width: 280px;
     background-color: #1C5FFF;
@@ -148,7 +151,7 @@ color: #FFFFFF;
     .info_paragraph{
         font-size: 19px;
         max-width: 500px;
-        line-height: 137%;
+        line-height: 155%;
     }
     .info__span{
         
