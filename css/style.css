@@ -16,7 +16,7 @@ body{
     /* background-position-x: 0px; */
     /* background-position: right; */
     display: block;
-    min-width: 360px;
+    
 
 }
 p{
@@ -61,6 +61,9 @@ max-width: 600px;
 text-transform: uppercase;
 padding-bottom: 15px;
 color: #FFFFFF;
+}
+.info__text{
+    margin: 0 auto;
 }
 .info__button{
     text-align: center;
@@ -212,3 +215,15 @@ text-transform: uppercase;
 color: #FFFFFF;
     }
   }
+
+  @media screen and (max-width: 360px) { 
+    .info__title{
+        font-size: 21px;
+        
+    }
+    .info_paragraph{
+        font-size: 12px;
+        max-width: 236px;
+    }
+    
+}
